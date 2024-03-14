@@ -8,4 +8,4 @@
 
 ## Task Force Nova
 
-Discord: [https://discord.gg/tfnova](https://discord.gg/ZAtHTTp8ks).
+Discord: [discord.gg/ZAtHTTp8ks](https://discord.gg/ZAtHTTp8ks).
