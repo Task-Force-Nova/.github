@@ -1,4 +1,4 @@
-<a href="[https://www.textualize.io](https://discord.gg/ZAtHTTp8ks)">
+<a href="[https://www.textualize.io](https://discord.gg/J7tr6pYn4p)">
 <picture>
 <!--   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Task-Force-Nova/.github/assets/162037590/d274069b-17b4-4ca4-ad07-21fc51310c1e"> -->
   <img src="https://github.com/Task-Force-Nova/.github/assets/162037590/d274069b-17b4-4ca4-ad07-21fc51310c1e">
@@ -7,6 +7,6 @@
 
 
 
-## Task Force Nova
+## ODIN Arma Community
 
 Discord: [discord.gg/J7tr6pYn4p](https://discord.gg/J7tr6pYn4p).
